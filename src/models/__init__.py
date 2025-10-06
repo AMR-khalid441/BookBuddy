@@ -1,0 +1,1 @@
+# to write the database schema and other important static things (tables and names)
